@@ -1,0 +1,17 @@
+api: 2
+core: 7.x
+
+projects:
+  commerce: { version: ~ }
+  commerce_shipping: { version: ~ }
+  commerce_flat_rate: { version: ~ }
+  commerce_paypal: { version: ~ }
+  commerce_cardonfile: { version: ~ }
+  commerce_credits: { version: ~ }
+  commerce_discount: { version: ~ }
+  commerce_extra_panes: { version: ~ }
+  commerce_addressbook: { version: ~ }
+  commerce_coupon_pct: { version: ~ }
+  commerce_price_savings_formatter: { version: ~ }
+  commerce_coupon: { version: ~ }
+  commerce_fieldgroup_panes: { version: ~ }

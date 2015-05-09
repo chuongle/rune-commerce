@@ -1,0 +1,57 @@
+name = Rune
+description = Rune distribution
+
+core = 7.x
+
+; core
+dependencies[] = contextual
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = taxonomy
+
+; contrib
+dependencies[] = admin_menu
+dependencies[] = admin_views
+dependencies[] = adminimal_admin_menu
+dependencies[] = ckeditor
+dependencies[] = coffee
+dependencies[] = content_menu
+dependencies[] = ctools
+dependencies[] = diff
+dependencies[] = email_registration
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = entityreference
+dependencies[] = features
+dependencies[] = features_override
+dependencies[] = filefield_paths
+dependencies[] = jquery_update
+dependencies[] = module_filter
+dependencies[] = pathauto
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = uuid
+dependencies[] = uuid_features
+dependencies[] = uuid_panel_node
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
+dependencies[] = webform
+dependencies[] = webform_uuid
+
+; rune
+dependencies[] = rune_admin_theme
+dependencies[] = rune_ckeditor
+dependencies[] = rune_coffee
+dependencies[] = rune_fences
+dependencies[] = rune_permissions
+dependencies[] = rune_text_formats
+dependencies[] = rune_jquery_update
+dependencies[] = rune_image_toolkit
