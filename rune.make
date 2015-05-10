@@ -10,6 +10,9 @@ projects[commerce][version] = "1.11"
 projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.2"
 
+projects[commerce_ups][subdir] = "contrib"
+projects[commerce_ups][version] = "2.0"
+
 projects[commerce_flat_rate][subdir] = "contrib"
 projects[commerce_flat_rate][version] = "1.0-beta2"
 
@@ -42,6 +45,15 @@ projects[commerce_coupon][version] = "1.0-beta7"
 
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
+
+projects[commerce_features][subdir] = "contrib"
+projects[commerce_features][version] = "1.0"
+
+projects[commerce_physical][subdir] = "contrib"
+projects[commerce_physical][version] = "1.x-dev"
+
+projects[physical][subdir] = "contrib"
+projects[physical][version] = "1.x-dev"
 
 ; Themes
 projects[adminimal_theme][subdir] = "contrib"

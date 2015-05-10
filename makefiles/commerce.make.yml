@@ -4,6 +4,7 @@ core: 7.x
 projects:
   commerce: { version: ~ }
   commerce_shipping: { version: ~ }
+  commerce_ups: { version: ~ }
   commerce_flat_rate: { version: ~ }
   commerce_paypal: { version: ~ }
   commerce_cardonfile: { version: ~ }
@@ -15,3 +16,6 @@ projects:
   commerce_price_savings_formatter: { version: ~ }
   commerce_coupon: { version: ~ }
   commerce_fieldgroup_panes: { version: ~ }
+  commerce_features: { version: ~ }
+  commerce_physical: { version: ~ }
+  physical: { version: ~ }
